@@ -1,0 +1,20 @@
+{
+ "seeds": [
+  1,
+  2
+ ],
+ "rng": "numpy.random.default_rng(seed)",
+ "briefs": [
+  "balsa30",
+  "bridge40",
+  "canopy24",
+  "cantilever20",
+  "jib50",
+  "jib50flat",
+  "rail30"
+ ],
+ "episode_run": {
+  "brief": "bridge40",
+  "seed": 1
+ }
+}
