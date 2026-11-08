@@ -1,0 +1,15 @@
+brief,title,seed,evolved_t,textbook,textbook_t,saving_pct,designs_evaluated,generations,run_seconds,members,joints
+balsa30,30 cm balsa competition bridge vs the Pratt,1,0.0,"Pratt truss, 60 mm deep",0.0,33.3,62560,400,418.2,17,10
+balsa30,30 cm balsa competition bridge vs the Pratt,2,0.0,"Pratt truss, 60 mm deep",0.0,33.3,62560,400,287.0,17,10
+bridge40,40 m road bridge vs the Pratt truss,1,6.71,"Pratt truss (1844), 5 m deep",9.1875,27.0,62560,400,516.4,42,22
+bridge40,40 m road bridge vs the Pratt truss,2,6.8573,"Pratt truss (1844), 5 m deep",9.1875,25.4,62560,400,508.6,41,22
+canopy24,24 m canopy on one foundation vs the umbrella canopy,1,0.6387,umbrella canopy: lattice mast + tapered cantilever trusses,0.7825,18.4,62560,400,589.5,66,36
+canopy24,24 m canopy on one foundation vs the umbrella canopy,2,0.6487,umbrella canopy: lattice mast + tapered cantilever trusses,0.7825,17.1,62560,400,459.6,62,35
+cantilever20,20 m cantilever vs the tapered truss (Michell's problem),1,2.1768,"tapered N-truss cantilever, 8 m deep at the wall",2.8739,24.3,62560,400,502.0,20,13
+cantilever20,20 m cantilever vs the tapered truss (Michell's problem),2,2.168,"tapered N-truss cantilever, 8 m deep at the wall",2.8739,24.6,62560,400,329.4,16,12
+jib50,50 m hammerhead crane jib vs the lattice jib,1,1.8666,"Warren lattice jib, 2 m deep, two pendants from a 9 m apex",2.1636,13.7,62560,400,699.8,64,35
+jib50,50 m hammerhead crane jib vs the lattice jib,2,1.8772,"Warren lattice jib, 2 m deep, two pendants from a 9 m apex",2.1636,13.2,62560,400,708.8,58,33
+jib50flat,50 m flat-top crane jib vs the lattice jib,1,2.3004,"Warren lattice jib, 2 m deep (flat-top)",3.1662,27.3,62560,400,780.6,64,34
+jib50flat,50 m flat-top crane jib vs the lattice jib,2,2.3156,"Warren lattice jib, 2 m deep (flat-top)",3.1662,26.9,62560,400,606.6,62,33
+rail30,30 m railway bridge vs the Warren truss,1,5.7291,"Warren truss with verticals, 4.5 m deep",7.8571,27.1,62560,400,647.4,43,22
+rail30,30 m railway bridge vs the Warren truss,2,5.7823,"Warren truss with verticals, 4.5 m deep",7.8571,26.4,62560,400,517.4,37,20

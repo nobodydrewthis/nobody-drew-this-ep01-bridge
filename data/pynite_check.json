@@ -1,0 +1,95 @@
+{
+ "pinned": [
+  {
+   "design": "evolved",
+   "case": "traffic full",
+   "max_rel_diff": 5.27942051044631e-14,
+   "max_util_ours": 0.7250402197769444,
+   "max_util_pynite": 0.7250402197769495
+  },
+  {
+   "design": "evolved",
+   "case": "traffic left half",
+   "max_rel_diff": 4.774461341439791e-14,
+   "max_util_ours": 0.7158942384695375,
+   "max_util_pynite": 0.7158942384695288
+  },
+  {
+   "design": "evolved",
+   "case": "traffic right half",
+   "max_rel_diff": 3.4310101007969996e-14,
+   "max_util_ours": 0.715894238469531,
+   "max_util_pynite": 0.7158942384695357
+  },
+  {
+   "design": "pratt",
+   "case": "traffic full",
+   "max_rel_diff": 3.001153971047437e-14,
+   "max_util_ours": 0.9999999770531095,
+   "max_util_pynite": 0.9999999770531103
+  },
+  {
+   "design": "pratt",
+   "case": "traffic left half",
+   "max_rel_diff": 4.078515178705356e-14,
+   "max_util_ours": 0.9999999770531103,
+   "max_util_pynite": 0.9999999770531103
+  },
+  {
+   "design": "pratt",
+   "case": "traffic right half",
+   "max_rel_diff": 2.5588136630731057e-14,
+   "max_util_ours": 0.9999999770531103,
+   "max_util_pynite": 0.9999999770531103
+  }
+ ],
+ "rigid": [
+  {
+   "design": "evolved",
+   "case": "traffic full",
+   "first_fail_lambda_rigid_bending": 2.259624617681766
+  },
+  {
+   "design": "evolved",
+   "case": "traffic left half",
+   "first_fail_lambda_rigid_bending": 1.850867010807633
+  },
+  {
+   "design": "evolved",
+   "case": "traffic right half",
+   "first_fail_lambda_rigid_bending": 1.850867010807633
+  },
+  {
+   "design": "pratt",
+   "case": "traffic full",
+   "first_fail_lambda_rigid_bending": 1.29237411957547
+  },
+  {
+   "design": "pratt",
+   "case": "traffic left half",
+   "first_fail_lambda_rigid_bending": 1.2781027237997478
+  },
+  {
+   "design": "pratt",
+   "case": "traffic right half",
+   "first_fail_lambda_rigid_bending": 1.2781027237997478
+  }
+ ],
+ "compare": [
+  {
+   "case": "traffic full",
+   "rigid_ratio": 1.7484291765483715,
+   "pinned_ratio": 1.5703691255826415
+  },
+  {
+   "case": "traffic left half",
+   "rigid_ratio": 1.4481363479964116,
+   "pinned_ratio": 1.6264097622080902
+  },
+  {
+   "case": "traffic right half",
+   "rigid_ratio": 1.4481363479964116,
+   "pinned_ratio": 1.6264097622080644
+  }
+ ]
+}
